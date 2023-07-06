@@ -1,6 +1,7 @@
 # Decentralized Cupcake Vending Machine
 
 This quickstart is for web developers who want to start building decentralized applications (dApps) using Arbitrum. It makes no assumptions about your prior experience with Ethereum, Arbitrum, or Solidity. Familiarity with Javascript and yarn is expected. If you're new to Ethereum, consider studying the Ethereum documentation before proceeding.
+[Arbitrum Documentation](https://developer.arbitrum.io/for-devs/quickstart-solidity-hardhat)
 
 ## What we're building
 
